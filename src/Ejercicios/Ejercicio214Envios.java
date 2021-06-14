@@ -11,6 +11,8 @@ package Ejercicios;
  *  3       AMERICA DEL SUR         $12
  *  4           EUROPA              $24
  *  5           ASIA                $27
+ *  Parte de su política implica que los paquetes con un peso superior a 5 kg no son transportados, esto por cuestiones de logística y de seguridad.
+ *   Realice un algoritmo para determinar el cobro por la entrega de un paquete o, en su caso, el rechazo de la entrega; represéntelo mediante diagrama de flujo y pseudocódigo.
  */
 import java.util.Scanner;
 
