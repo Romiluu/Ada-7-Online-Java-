@@ -13,9 +13,8 @@ public class Ejercicio996Menu {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int opc;
-		int dia[] = new int[] { 0, 0, 0, 0, 0 };
+		int dia[] = new int[5];
 		int totalesRecaudados;
-		int acc = 0;
 
 		System.out.println("********* Bienvenida **********");
 		System.out.println("-------------------------------");
@@ -65,7 +64,7 @@ public class Ejercicio996Menu {
 			opc = mostrarMenu(sc);
 		}
 
-		System.out.println("Gracias por utilizar el sistema");
+		System.out.println("-------- ADIOS -----------");
 
 	}
 
